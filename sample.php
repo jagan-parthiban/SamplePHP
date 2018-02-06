@@ -1,14 +1,12 @@
-Result Size: 668 x 488
 <!DOCTYPE html>
 <html>
 <body>
 
-<?php
-$x = 10;  
-$y = 6;
+<h1>My first PHP page</h1>
 
-echo $x + $y;
-?>  
+<?php
+echo "Hello World!";
+?>
 
 </body>
 </html>
